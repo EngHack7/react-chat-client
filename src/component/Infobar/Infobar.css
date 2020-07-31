@@ -24,5 +24,11 @@
   }
   
   .onlineIcon {
-    margin-right: 5%;
+   
+    width: 59px;
+
+  }
+  .closeIcon{
+    width: 56px;
+    margin-right: 9px;
   }
